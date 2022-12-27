@@ -29,7 +29,7 @@ scissors = '''
 
 #Write your code below this line 👇
 
-# created a list and optimised the problem instead of using if-else statement
+# created a list and optimised the problem instead of using if-else statement.
 
 game_images = [rock,paper,scissors]
 
