@@ -31,6 +31,10 @@ print()
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
+random.shuffle(letters)
+random.shuffle(numbers)
+random.shuffle(symbols)
+
 # created a new list so that it can store all(numbers ,symbols,letters) together.
 list = []
 print("Hard Level Password - Order of characters randomised: ", end = "")
