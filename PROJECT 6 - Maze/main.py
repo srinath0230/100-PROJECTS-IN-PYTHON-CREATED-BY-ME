@@ -11,14 +11,5 @@ while not at_goal():
         move()
     else:
         turn_left()
-        
-
-   
-        
-
-
-    
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
+       
+#THIS CODE IS VALID IN THE WEBSITE "REEBORG'S WORLD" AND DIFFICULTY LEVEL IS "MAZE"
