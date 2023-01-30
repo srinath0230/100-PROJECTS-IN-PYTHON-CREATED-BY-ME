@@ -1,1 +1,16 @@
+When looping through a dictionary, the return value are the "KEYS" of the dictionary.
 
+We can use "while" loop with a condition "True" until the desired result is achieved and then turn the condition into "False"
+
+To add key and values into empty dictionary we need to simple follow this stepp : dictionary_name[key] = value 
+for example : 
+            bids = {}
+            repeat = True
+            while repeat:
+              name  = input("Enter the name of the bidder :")
+              price = int(input("Enter the bid price : $ "))
+              bids[name] = price
+              new_bidder = input("Are there any other bidders? Type 'yes' or 'no'\n").lower()
+              if new_bidder == "no":
+                repeat = False  
+            print(bids)
