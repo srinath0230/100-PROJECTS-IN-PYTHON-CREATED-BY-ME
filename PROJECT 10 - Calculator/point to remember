@@ -1,1 +1,12 @@
 In function when we "return" value it is considered to be the end of that function, to have multiple "return" statments we should use if condition.
+(The return keyword will exit the function and prevent the rest of the code from being executed.)
+
+Docstrings = writing the defination of the function right below after decleration of the function. It gives the defination of the function written by you. It is 
+written in between the thriple quotes
+Exampple : 
+          def sum(n1,n2):
+          """adds two number"""
+          
+Print VS Return : print gives the output in console and doesn't store that value and return helps to store the value as variable and can be reused in the further code.
+
+Recursion = The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called a recursive function.
