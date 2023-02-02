@@ -1,0 +1,1 @@
+In function when we "return" value it is considered to be the end of that function, to have multiple "return" statments we should use if condition.
