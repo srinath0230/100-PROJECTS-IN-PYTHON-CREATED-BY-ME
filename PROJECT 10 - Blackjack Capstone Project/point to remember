@@ -1,4 +1,0 @@
-"append" adds an element to a list. "extend" concatenates the first list with another list/iterable.
-append() adds a single element to the end of the list while . extend() can add multiple individual elements to the end of the list.
-
-The remove() method removes the first occurrence of the element with the specified value.
