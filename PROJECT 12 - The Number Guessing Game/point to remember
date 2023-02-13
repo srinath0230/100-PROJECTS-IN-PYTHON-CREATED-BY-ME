@@ -1,0 +1,2 @@
+local and global variable : If a variable is declared inside a function then it comes under local scope and can be used only inside that function. Variable declared outside 
+the function has scope all over and can be called inside or outside the function is called global variable.
