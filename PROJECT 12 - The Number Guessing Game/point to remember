@@ -1,2 +1,16 @@
 local and global variable : If a variable is declared inside a function then it comes under local scope and can be used only inside that function. Variable declared outside 
 the function has scope all over and can be called inside or outside the function is called global variable.
+ 
+ Q: Does python block has scope?
+ A: Remember that in Python there is no block scope. Inside a if/else/for/while code block is the same as outside it.
+ example: 
+ def bar():
+    my_variable = 9
+ 
+    if 16 > 9:
+      my_variable = 16
+ 
+    print(my_variable)
+ 
+bar()
+# Output = 16
