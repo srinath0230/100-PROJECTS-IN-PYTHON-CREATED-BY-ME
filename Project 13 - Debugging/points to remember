@@ -3,3 +3,15 @@ Stack overflow
 Python tutor - https://pythontutor.com/visualize.html#mode=edit
 thony 
 print() statement 
+
+Steps to Debug 
+1) Describe a problem.
+2) Reproduce the bug .
+3) Play computer.
+4) Fix the errors .
+5) print is your friend.
+6) Use debugger .
+7) Take a break.
+8) Ask a friend (programmer).
+9) Run often (run every time when made a slight change in code ).
+10) Ask stack overflow.
